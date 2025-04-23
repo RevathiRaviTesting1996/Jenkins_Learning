@@ -7,6 +7,7 @@ public class Car {
 	protected void engine() {
 		System.out.println("This is my engine secret");
 		System.out.println(wheels);
+		System.out.pringln("checking");
 	}
 	
 	
